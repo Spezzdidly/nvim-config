@@ -2,8 +2,10 @@
 
 ### How to use
 ```
-cd ~/.config/nvim
+cd ~/.config/
 git clone https://github.com/Spezzdidly/nvim-config.git
+
+cp nvim-config nvim
 ```
 
 ### Current features
