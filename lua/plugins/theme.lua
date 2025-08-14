@@ -1,11 +1,7 @@
 return {
     {
-	'AlexvZyl/nordic.nvim',
+	'nyoom-engineering/nyoom.nvim',
 	lazy = false,
-	priority = 1000,
-	config = function()
-	    require('nordic').load()
-	end
     },
     {
 	"nvim-lualine/lualine.nvim",
